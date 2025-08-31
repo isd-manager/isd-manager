@@ -1,10 +1,11 @@
 ---
 layout: default
-title: ホーム
+title: ○田技術研究所
 ---
 
-# ようこそ ISD Manager へ
+# ○田技術研究所
+## こちらで投稿しています
 
-これは GitHub Pages + Jekyll で生成された自動テーマサイトです。
-
-[noteもやってます](https://note.com/giken_manager)
+[note](https://note.com/giken_manager)  
+[Pinterest](https://www.pinterest.com/manager6983/)  
+[Bluesky](https://bsky.app/) @manager-isd.bsky.social
